@@ -28,10 +28,10 @@
 
 ## Usage
 
-**If you have not installed this project yet, follow the instructions at [Install](https://github.com/Zero-Brazil734/dbcm-example/blob/master/README.md#Install) first.**
+**If you have not installed this project yet, follow the instructions at [Install](https://github.com/Zero-Brazil734/dbcm-example/blob/master/README.md#install) first.**
 
 1. Please input your settings in the [config.js](config.js) file.
-2. Run [Run tests](https://github.com/Zero-Brazil734/dbcm-example/blob/master/README.md#Run_tests).
+2. Run [Run tests](https://github.com/Zero-Brazil734/dbcm-example/blob/master/README.md#run-tests).
 3. Enjoy the bot and start creating your own project based in this repository.
 
 ## Run tests 
